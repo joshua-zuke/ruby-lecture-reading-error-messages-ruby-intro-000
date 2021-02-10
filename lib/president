@@ -1,0 +1,2 @@
+current_president = "Joe Biden"
+puts "In 2021 the president was #{current_president}."
